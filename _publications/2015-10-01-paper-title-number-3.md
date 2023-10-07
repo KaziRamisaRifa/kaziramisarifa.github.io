@@ -2,7 +2,7 @@
 title: "SA-VITON: A Method and Dataset for South Asian Clothing Virtual Try-On "
 collection: Submitted
 permalink: 
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'Author: Kazi Ramisa Rifa*, Hasib Zunair, Khalid Bin Shafiq, Nabeel Mohammed'
 date: 2024-08-30
 venue: 'WACV'
 paperurl: 
