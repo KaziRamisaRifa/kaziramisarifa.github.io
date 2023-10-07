@@ -16,11 +16,11 @@ I consistently achieved academic excellence in both my coursework and extracurri
 
 Research Interests:
 ======
-  Computer Vision
-  Machine Learning
-  Generative Adversarial Networks
-  Image Processing 
-  Image Segmentation 
+- Computer Vision
+- Machine Learning
+- Generative Adversarial Networks
+- Image Processing 
+- Image Segmentation 
 
 
 
