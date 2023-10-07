@@ -2,7 +2,7 @@
 title: "Teaching Assistant"
 collection: teaching
 type: "Workshop"
-permalink: 
+permalink: /teaching/2014-spring-teaching-2
 venue: "Department of Electrical and Computer Engineering, North South University"
 date: 
 location: "Dhaka, Bangladesh"
