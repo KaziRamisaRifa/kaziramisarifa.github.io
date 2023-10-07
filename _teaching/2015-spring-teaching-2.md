@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Assistant"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+permalink: 
+venue: "Department of Electrical and Computer Engineering, North South University"
+date: 
+location: "Dhaka, Bangladesh"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+One and a half years of experience working
+I have worked as a teaching assistant and experienced teaching undergraduate students in essential courses like Data Structure and Algorithm and Design and Analysis of Algorithms.
