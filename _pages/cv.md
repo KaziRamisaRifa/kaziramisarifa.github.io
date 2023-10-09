@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,30 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Computer Science and Engineering (CSE), North South University, Dhaka Bangladesh.
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Teaching Assistant (TA)
+  * Department of Electrical & Computer Engineering at North South University
+  * Duties include: Conduct tutorial sessions for students, grade home-works and assignments, and assist faculty members in their course-related work
+  * Supervisor: Dr. Sifat Momen, Dr. Sumon Ahmed, Dr Emon Kumar Dey
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
+* Executive Body Member (Treasurer)
+  * NSU Athletics’s Club at North South University
+  * Duties include: Organizing sports events
+  * Advisor: Md. Mehedi Hasan 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming- Python, C++, Java, MySQL, bash
+* AI & ML- PyTorch, Open-CV, Scikit-learn, Pandas, NumPy, Matplotlib, PIL, Tensorboard
+* Web- PhP, HTML, CSS, Bootstrap, Selenium
+* IDE- VScode, Atom, Eclipse, CodeBlocks
+* Environment- Anaconda, Jupyter, Git, Latex, CMakeBuild, MS-Office
+* Simulation- Logisim, MultiSim, Proteus
+* Contents- Draw.io, Canva, Adobe Premier Pro, Photoshop, Illustrator
+* OS- Windows, MacOS
 
 Publications
 ======
