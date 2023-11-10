@@ -37,11 +37,6 @@ Skills
 * Contents- Draw.io, Canva, Adobe Premier Pro, Photoshop, Illustrator
 * OS- Windows, MacOS
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Talks
 ======
