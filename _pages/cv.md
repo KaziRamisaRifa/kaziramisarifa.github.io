@@ -20,12 +20,6 @@ Work experience
   * Duties include: Conduct tutorial sessions for students, grade home-works and assignments, and assist faculty members in their course-related work
   * Supervisor: Dr. Sifat Momen, Dr. Sumon Ahmed, Dr Emon Kumar Dey
 
-
-* Executive Body Member (Treasurer)
-  * NSU Athletics’s Club at North South University
-  * Duties include: Organizing sports events
-  * Advisor: Md. Mehedi Hasan 
-  
 Skills
 ======
 * Programming- Python, C++, Java, MySQL, bash
