@@ -11,20 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.Sc. in Computer Science and Engineering (CSE), North South University, Dhaka Bangladesh.
+* B.Sc. in Computer Science and Engineering (CSE), North South University, Dhaka, Bangladesh.
 
 Work experience
 ======
 * Teaching Assistant (TA)
   * Department of Electrical & Computer Engineering at North South University
-  * Duties include: Conduct tutorial sessions for students, grade home-works and assignments, and assist faculty members in their course-related work
+  * Duties include Conducting tutorial sessions for students, grading home-works and assignments, and assisting faculty members in their course-related work
   * Supervisor: Dr. Sifat Momen, Dr. Sumon Ahmed, Dr Emon Kumar Dey
 
+* Executive Body Member (Treasurer)
+  * NSU Athletics Club
+  * Duties include Organizing sports events and managing sports teams.
+  * Advisor: Md. Mehedi Hasan 
 Skills
 ======
 * Programming- Python, C++, Java, MySQL, bash
 * AI & ML- PyTorch, Open-CV, Scikit-learn, Pandas, NumPy, Matplotlib, PIL, Tensorboard
-* Web- PhP, HTML, CSS, Bootstrap, Selenium
+* Web- PHP, HTML, CSS, Bootstrap, Selenium
 * IDE- VScode, Atom, Eclipse, CodeBlocks
 * Environment- Anaconda, Jupyter, Git, Latex, CMakeBuild, MS-Office
 * Simulation- Logisim, MultiSim, Proteus
