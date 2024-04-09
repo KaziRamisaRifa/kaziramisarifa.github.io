@@ -24,6 +24,7 @@ Work experience
   * NSU Athletics Club
   * Duties include Organizing sports events and managing sports teams.
   * Advisor: Md. Mehedi Hasan 
+
 Skills
 ======
 * Programming- Python, C++, Java, MySQL, bash
