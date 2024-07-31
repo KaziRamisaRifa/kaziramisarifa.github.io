@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 ======
+* Ph.D. in Computer Science, University of Kentucky, Lexington, USA
 * B.Sc. in Computer Science and Engineering (CSE), North South University, Dhaka, Bangladesh.
 
 Work experience
