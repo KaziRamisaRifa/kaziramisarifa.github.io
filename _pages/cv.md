@@ -11,11 +11,17 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Computer Science, University of Kentucky, Lexington, USA
+* Ph.D. in Computer Science, University of Kentucky, Lexington, KY, USA
 * B.Sc. in Computer Science and Engineering (CSE), North South University, Dhaka, Bangladesh.
 
 Work experience
 ======
+* Graduate Research Assistant (GRA)
+  * Department of Computer Science, University of Kentucky
+  * Duties include conducting research in the computer vision domain, analyzing data, developing algorithms or models, preparing research papers for publication, and presenting findings at conferences.
+  * Collaborating with faculty members and fellow researchers on Medical Imaging and computer vision.
+  * Supervisor: Professor [Abdullah-Al-Zubaer Imran](https://aaz-imran.github.io/research/)
+    
 * Teaching Assistant (TA)
   * Department of Electrical & Computer Engineering at North South University
   * Duties include Conducting tutorial sessions for students, grading home-works and assignments, and assisting faculty members in their course-related work
