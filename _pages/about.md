@@ -22,7 +22,7 @@ Research Interests:
 - Medical Imaging*
 - Deep Learning
 
-
 News:
 ======
-- Paper accepted at [SPIE Medical Imaging](https://spie.org/conferences-and-exhibitions/medical-imaging) 2025.
+- **New:** [Jan 2025] Paper accepted at [IEEE International Symposium on Biomedical Imaging (ISBI) 2025!](https://biomedicalimaging.org/2025/)
+- **New:** [Nov 2024] Paper accepted at [SPIE Medical Imaging](https://spie.org/conferences-and-exhibitions/medical-imaging) 2025.
