@@ -13,7 +13,8 @@ author_profile: true
   [Paper](#) | [Code](https://github.com/KaziRamisaRifa/TFKT-V2) | [ArXiv](#)
 
 
-You can also find my articles on my <u><a href="https://scholar.google.com/citations?user=nrEP6nQAAAAJ&hl=en" target="_blank">Google Scholar profile</a>.</u>
+You can also find my articles on my [Google Scholar Profile](https://scholar.google.com/citations?user=nrEP6nQAAAAJ&hl=en)
+
 
 {% include base_path %}
 
