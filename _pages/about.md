@@ -16,8 +16,9 @@ In my undergraduate thesis, I implemented efficient methodologies and proposed d
 Research Interests:
 ======
 - Computer Vision
-- Generative Adversarial Networks
-- Medical Imaging*
+- Generative AI
+- Diffusion Models
+- Medical Imaging
 - Deep Learning
 
 News:
