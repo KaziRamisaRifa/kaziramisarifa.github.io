@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-Here is my full [CV](kaziramisarifa.github.io/blob/master/files/Ramisa_Rifa_CV.pdf)
 
 Education
 ======
