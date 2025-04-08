@@ -23,6 +23,10 @@ Research Interests:
 
 News:
 ======
-- **<span style="color:red">New!:</span>** Manuscript accepted for publication in the [Journal of Medical Imaging (JMI) 2025!](https://www.spiedigitallibrary.org/journals/journal-of-medical-imaging).
+- **<span style="color:red">New!:</span>**  [Apr 2025] Manuscript accepted for publication in the [Journal of Medical Imaging (JMI) 2025!](https://www.spiedigitallibrary.org/journals/journal-of-medical-imaging).
+- **<span style="color:red">New!:</span>**  [Apr 2025] I gave a talk on [Swin-KAT](https://github.com/KaziRamisaRifa/Swin-KAT) at the 20th Annual [CCTS Spring Conference 2025]() in Lexington, KY. 
 - [Jan 2025] Paper accepted at [IEEE International Symposium on Biomedical Imaging (ISBI) 2025!](https://biomedicalimaging.org/2025/)
 - [Nov 2024] Paper accepted at [SPIE Medical Imaging](https://spie.org/conferences-and-exhibitions/medical-imaging) 2025.
+- [Aug 2024] Started working as a Graduate Research Assistant (GRA) at the [CHILL Lab](https://aaz-imran.github.io/imlab) at the University of Kentucky. 
+- [Aug 2024] Started my journey as a PhD student at the [University of Kentucky](www.uky.edu)
+- [Aug 2023] Completed my Bachelor's degree in Computer Science and Engineering from [North South University (NSU)](www.northsouth.edu)
