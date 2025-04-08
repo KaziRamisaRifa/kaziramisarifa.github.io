@@ -23,5 +23,6 @@ Research Interests:
 
 News:
 ======
-- **New:** [Jan 2025] Paper accepted at [IEEE International Symposium on Biomedical Imaging (ISBI) 2025!](https://biomedicalimaging.org/2025/)
-- **New:** [Nov 2024] Paper accepted at [SPIE Medical Imaging](https://spie.org/conferences-and-exhibitions/medical-imaging) 2025.
+- **<span style="color:red">New!:</span>** Manuscript accepted for publication in the [Journal of Medical Imaging (JMI) 2025!](https://www.spiedigitallibrary.org/journals/journal-of-medical-imaging).
+- [Jan 2025] Paper accepted at [IEEE International Symposium on Biomedical Imaging (ISBI) 2025!](https://biomedicalimaging.org/2025/)
+- [Nov 2024] Paper accepted at [SPIE Medical Imaging](https://spie.org/conferences-and-exhibitions/medical-imaging) 2025.
