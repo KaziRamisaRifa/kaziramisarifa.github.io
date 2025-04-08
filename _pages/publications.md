@@ -6,8 +6,6 @@ author_profile: true
 ---
 ### 2025
 
-Here’s your updated list with the new paper added in the same format:  
-
 1. **[Kazi Ramisa Rifa]()**, M. Ahamed, J. Zhang, A. Imran, “TFKT V2: Task-focused knowledge transfer from natural images for computed tomography perceptual image quality assessment,” **Journal of Medical Imaging (JMI)**: Special Issue on Medical Image Perception and Observer Performance, 2025.  
   [Paper](#) | [Code](https://github.com/KaziRamisaRifa/TFKT-V2) | [ArXiv](#)
   
