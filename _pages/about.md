@@ -23,6 +23,9 @@ Research Interests:
 
 News:
 ======
+
+- **<span style="color:red">New!:</span>**  [Apr 2025] Presented my work on [Swin-KAT](https://github.com/KaziRamisaRifa/Swin-KAT) at [ISBI 2025](https://biomedicalimaging.org/2025/)
+- 
 - **<span style="color:red">New!:</span>**  [Apr 2025] Manuscript accepted for publication in the [Journal of Medical Imaging (JMI) 2025!](https://www.spiedigitallibrary.org/journals/journal-of-medical-imaging).
 - **<span style="color:red">New!:</span>**  [Apr 2025] I gave a talk on [Swin-KAT](https://github.com/KaziRamisaRifa/Swin-KAT) at the 20th Annual [CCTS Spring Conference 2025]() in Lexington, KY. 
 - [Jan 2025] Paper accepted at [IEEE International Symposium on Biomedical Imaging (ISBI) 2025!](https://biomedicalimaging.org/2025/)
