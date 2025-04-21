@@ -18,7 +18,7 @@ author_profile: true
   [Slide](https://kaziramisarifa.github.io/files/slides/CCTS_SwinKAT_Ramisa.pdf) 
 
 3. **[Kazi Ramisa Rifa]()**, M. Ahamed, J. Zhang, A. Imran, “TFKT: Task-focused knowledge transfer from natural images for CT image quality assessment,” **SPIE Medical Imaging:** Image Perception, Observer Performance, and Technology Assessment, 2025.  
-  [Project Page] (https://sites.google.com/northsouth.edu/tfkt/tfkt) |
+  [Project Page](https://sites.google.com/northsouth.edu/tfkt/tfkt) |
   [Paper](#) |
   [Code](https://github.com/KaziRamisaRifa/TFKT-V2) |
   [Poster](https://kaziramisarifa.github.io/files/posters/SPIE_med_im_Ramisa_2025_.pdf) 
