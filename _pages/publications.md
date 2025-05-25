@@ -14,7 +14,7 @@ author_profile: true
   
 2. Swin-KAT: Advancing Swin Transformer with Kolmogorov-Arnold network for CT image quality assessment.                                                                                      
    [Kazi Ramisa Rifa](), J. Zhang, A. Imran                                                                                                                                                    
-   ***IEEE International Symposium on Biomedical Imaging (ISBI) 2025***                                                                                           
+   ***22nd International Symposium on Biomedical Imaging (ISBI) 2025***                                                                                           
     [Project Page](https://sites.google.com/northsouth.edu/swinkat/swinkat) |
     [Paper](#) |
     [Code](https://github.com/KaziRamisaRifa/Swin-KAT) |
