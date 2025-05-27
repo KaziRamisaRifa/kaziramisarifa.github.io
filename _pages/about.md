@@ -12,7 +12,6 @@ I’m a first-year Computer Science **PhD student** at the University of Kentuck
 
 In my undergraduate thesis, I implemented efficient methodologies and proposed datasets for 2D image-based virtual try-on and became the 2nd Runner-up in NSU ACM SC Capstone Innovation Challenge 2022 at North South University. I consistently achieved academic excellence in both my coursework and extracurricular activities, as well as gained **“Summa Cum Laude”** the highest distinction. Due to my great academic record, I received the opportunity to study with a **100% tuition fee waiver**. 
 
-
 Research Interests:
 ======
 - Computer Vision
