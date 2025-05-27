@@ -3,7 +3,7 @@ permalink: /
 title: "Hi, I'm Ramisa!"
 excerpt: "About me"
 author_profile: true
-classes: wide
+classes: full
 redirect_from: 
   - /about/
   - /about.html
