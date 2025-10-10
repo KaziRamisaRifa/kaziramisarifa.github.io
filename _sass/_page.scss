@@ -1,7 +1,5 @@
 /* ==========================================================================
    SINGLE PAGE/POST
-   - Wider default content on large screens (11/12)
-   - Optional `.wide` class to go full width (12/12)
    ========================================================================== */
 
 #main {
@@ -13,18 +11,16 @@
   animation: intro 0.3s both;
   animation-delay: 0.35s;
 
-  // Uses theme variable; override $x-large in a later partial to change site cap.
   @include breakpoint($x-large) {
     max-width: $x-large;
   }
 }
 
 .page {
-  // Wider default text column on large screens (balanced gutters)
   @include breakpoint($large) {
-    @include span(11 of 12);
+    @include span(10 of 12 last);
     @include prefix(0.5 of 12);
-    @include suffix(0.5 of 12);
+    @include suffix(2 of 12);
   }
 
   .page__inner-wrap {
@@ -35,19 +31,6 @@
     .page__share {
       @include full();
     }
-  }
-}
-
-/* Full-width modifier:
-   Use in page front matter:
-   layout: single
-   classes: [wide]
-*/
-.wide .page {
-  @include breakpoint($large) {
-    @include span(12 of 12);
-    @include prefix(0);
-    @include suffix(0);
   }
 }
 
@@ -66,6 +49,7 @@
 }
 
 .page__content {
+
   h2 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
@@ -79,7 +63,7 @@
   p {
     margin: 0 0 $indent-var;
 
-    /* sibling indentation */
+    /* sibling indentation*/
     @if $paragraph-indent == true {
       & + p {
         text-indent: $indent-var;
@@ -141,7 +125,9 @@
     animation: intro 0.3s both;
     animation-delay: 0.25s;
 
-    a { color: #fff; }
+    a {
+      color: #fff;
+    }
 
     .wrapper {
       padding-left: 1em;
@@ -160,7 +146,9 @@
       text-shadow: 1px 1px 4px rgba(#000, 0.5);
     }
 
-    .page__lead { max-width: $medium; }
+    .page__lead {
+      max-width: $medium;
+    }
 
     .page__title {
       font-size: $type-size-2;
@@ -203,7 +191,7 @@
   }
 }
 
-/* ==========================================================================
+/*
    Social sharing
    ========================================================================== */
 
@@ -232,7 +220,8 @@
   text-transform: uppercase;
 }
 
-/* ==========================================================================
+
+/*
    Page meta
    ========================================================================== */
 
@@ -242,8 +231,13 @@
   font-family: $sans-serif;
   font-size: $type-size-6;
 
-  p { margin: 0; }
-  a { color: inherit; }
+  p {
+    margin: 0;
+  }
+
+  a {
+    color: inherit;
+  }
 }
 
 .page__meta-title {
@@ -252,13 +246,19 @@
   text-transform: uppercase;
 }
 
-/* ==========================================================================
+
+/*
    Page taxonomy
    ========================================================================== */
 
 .page__taxonomy {
-  .sep { display: none; }
-  strong { margin-right: 10px; }
+  .sep {
+    display: none;
+  }
+
+  strong {
+    margin-right: 10px;
+  }
 }
 
 .page__taxonomy-item {
@@ -276,11 +276,14 @@
   }
 }
 
-/* ==========================================================================
+
+/*
    Comments
    ========================================================================== */
 
-.page__comments { @include full(); }
+.page__comments {
+  @include full();
+}
 
 .page__comments-title {
   margin-top: 2rem;
@@ -311,7 +314,7 @@
 }
 
 .comment {
-  @include clearfix;
+  @include clearfix();
   margin: 1em 0;
 
   &:not(:last-child) {
@@ -355,17 +358,22 @@
 .comment__author {
   margin: 0;
 
-  a { text-decoration: none; }
+  a {
+    text-decoration: none;
+  }
 }
 
 .comment__date {
   @extend .page__meta;
   margin: 0;
 
-  a { text-decoration: none; }
+  a {
+    text-decoration: none;
+  }
 }
 
-/* ==========================================================================
+
+/*
    Related
    ========================================================================== */
 
@@ -373,7 +381,7 @@
   margin-top: 2em;
   padding-top: 1em;
   border-top: 1px solid $border-color;
-  @include clearfix;
+  @include clearfix();
   float: left;
 
   @include breakpoint($large) {
@@ -391,13 +399,3 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
-
-/* ==========================================================================
-   Optional readability cap for ultra-wide screens
-   (uncomment if you find lines too long)
-   ========================================================================== */
-/*
-@media (min-width: 1600px) {
-  .page__content { max-width: 85ch; }
-}
-*/
