@@ -29,7 +29,7 @@ News:
 - [June 2025] Abstract accepted for presentation at [AAPM 67th Annual Meeting & Exhibition](https://w4.aapm.org/meetings/2025AM/), in Washington DC, USA
 - [Apr 2025] Presented my work on [Swin-KAT](https://github.com/KaziRamisaRifa/Swin-KAT) at [ISBI 2025](https://biomedicalimaging.org/2025/), in Houston, TX, USA
 - [Apr 2025] Manuscript accepted for publication in the [Journal of Medical Imaging (JMI) 2025!](https://www.spiedigitallibrary.org/journals/journal-of-medical-imaging).
-- [Apr 2025] Gave a talk on [Swin-KAT](https://github.com/KaziRamisaRifa/Swin-KAT) at the 20th Annual [CCTS Spring Conference 2025]() in Lexington, KY. 
+- [Apr 2025] Gave an invited talk on [Swin-KAT](https://github.com/KaziRamisaRifa/Swin-KAT) at the 20th Annual [CCTS Spring Conference 2025]() in Lexington, KY. 
 - [Mar 2025] Received Travel Grant from the CS dept to attend [ISBI 2025](https://biomedicalimaging.org/2025/)!.
 - [Jan 2025] My paper [Swin-KAT](https://ieeexplore.ieee.org/abstract/document/10981172/) accepted at [IEEE International Symposium on Biomedical Imaging (ISBI) 2025!](https://biomedicalimaging.org/2025/)
 - [Nov 2024] My paper [TFKT](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13409/1340912/Task-focused-knowledge-transfer-from-natural-images-for-CT-image/10.1117/12.3047371.short) accepted at [SPIE Medical Imaging](https://spie.org/conferences-and-exhibitions/medical-imaging), in San Diego, CA, USA, 2024.
