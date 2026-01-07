@@ -25,7 +25,8 @@ Research Interests:
 
 News:
 ======
-- **<span style="color:red">New!:</span>** [Oct 2025] Paper accepted for Publication at [SPIE Medical Imaging 2026](https://spie.org/conferences-and-exhibitions/medical-imaging), in Vancouver, British Columbia, Canada
+- **<span style="color:red">New!</span>** [Jan 2026] Our recent work, [CAP-IQA: Context-Aware Prompt-Guided CT Image Quality Assessment](https://arxiv.org/abs/2601.01613), is now available on arXiv.
+- [Oct 2025] Paper accepted for Publication at [SPIE Medical Imaging 2026](https://spie.org/conferences-and-exhibitions/medical-imaging), in Vancouver, British Columbia, Canada
 - [June 2025] Abstract accepted for presentation at [AAPM 67th Annual Meeting & Exhibition](https://w4.aapm.org/meetings/2025AM/), in Washington, DC, USA
 - [Apr 2025] Presented my work on [Swin-KAT](https://github.com/KaziRamisaRifa/Swin-KAT) at [ISBI 2025](https://biomedicalimaging.org/2025/), in Houston, TX, USA
 - [Apr 2025] Manuscript accepted for publication in the [Journal of Medical Imaging (JMI) 2025!](https://www.spiedigitallibrary.org/journals/journal-of-medical-imaging).
