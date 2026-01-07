@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+For an up-to-date list of my research publications, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=nrEP6nQAAAAJ&hl=en)
+
 ### 2025
 
 1. TFKT V2: Task-focused knowledge transfer from natural images for computed tomography perceptual image quality assessment.                                                                                        
@@ -33,8 +35,6 @@ author_profile: true
     [Code](https://github.com/KaziRamisaRifa/TFKT-V2) |
     [Poster](https://kaziramisarifa.github.io/files/posters/SPIE_med_im_Ramisa_2025_.pdf) 
 
-
-You can also find my articles on my [Google Scholar Profile](https://scholar.google.com/citations?user=nrEP6nQAAAAJ&hl=en)
 
 {% include base_path %}
 
